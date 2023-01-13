@@ -4,10 +4,10 @@ IUT-ENCRYPT is a library to encrypt string
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use npm to install IUT-ENCRYPT.
 
 ```bash
-pip install foobar
+npm install foobar
 ```
 
 ## Usage
