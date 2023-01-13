@@ -1,0 +1,19 @@
+{
+  "name": "@ibysnow/iut_encrypt",
+  "version": "1.0.0",
+  "description": "IUT-ENCRYPT is a library to encrypt string",
+  "main": "encrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iBySnoW/IUT_ENCRYPT.git"
+  },
+  "author": "Corentin Danvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iBySnoW/IUT_ENCRYPT/issues"
+  },
+  "homepage": "https://github.com/iBySnoW/IUT_ENCRYPT#readme"
+}
